@@ -1,0 +1,15 @@
+C:\Users\Dell\Documents\data-structures\final-data-structures\bin\Debug\net9.0\final-data-structures.exe
+C:\Users\Dell\Documents\data-structures\final-data-structures\bin\Debug\net9.0\final-data-structures.deps.json
+C:\Users\Dell\Documents\data-structures\final-data-structures\bin\Debug\net9.0\final-data-structures.runtimeconfig.json
+C:\Users\Dell\Documents\data-structures\final-data-structures\bin\Debug\net9.0\final-data-structures.dll
+C:\Users\Dell\Documents\data-structures\final-data-structures\bin\Debug\net9.0\final-data-structures.pdb
+C:\Users\Dell\Documents\data-structures\final-data-structures\obj\Debug\net9.0\final-data-structures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\data-structures\final-data-structures\obj\Debug\net9.0\final-data-structures.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\data-structures\final-data-structures\obj\Debug\net9.0\final-data-structures.AssemblyInfo.cs
+C:\Users\Dell\Documents\data-structures\final-data-structures\obj\Debug\net9.0\final-data-structures.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\data-structures\final-data-structures\obj\Debug\net9.0\final-data-structures.sourcelink.json
+C:\Users\Dell\Documents\data-structures\final-data-structures\obj\Debug\net9.0\final-data-structures.dll
+C:\Users\Dell\Documents\data-structures\final-data-structures\obj\Debug\net9.0\refint\final-data-structures.dll
+C:\Users\Dell\Documents\data-structures\final-data-structures\obj\Debug\net9.0\final-data-structures.pdb
+C:\Users\Dell\Documents\data-structures\final-data-structures\obj\Debug\net9.0\final-data-structures.genruntimeconfig.cache
+C:\Users\Dell\Documents\data-structures\final-data-structures\obj\Debug\net9.0\ref\final-data-structures.dll
