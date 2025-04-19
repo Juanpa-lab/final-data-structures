@@ -6,7 +6,6 @@ public class Map
     public void Generate()
     {
         Random rand = new Random();
-
         for (int i = 1; i <= 15; i++)
         {
             AdjacencyList[i] = new List<int>();
@@ -15,7 +14,7 @@ public class Map
         for (int i = 1; i < 10; i++)
         {
             AdjacencyList[i].Add(i + 1);
-            AdjacencyList[i + 1].Add(i); 
+            AdjacencyList[i + 1].Add(i);
         }
 
         for (int i = 1; i <= 15; i++)

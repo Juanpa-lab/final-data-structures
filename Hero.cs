@@ -11,7 +11,6 @@ public class Hero
         Strength = strength;
         Agility = agility;
         Intelligence = intelligence;
-
         Inventory.Enqueue("Sword");
         Inventory.Enqueue("Health Potion");
     }
